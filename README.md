@@ -33,3 +33,4 @@
 
 <li>dev/c</li>
 
+<img src = "/images/네트워크.png">
