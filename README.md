@@ -7,8 +7,7 @@
 
 # 기말고사
 
-| 팀장 | 김종범 | main, dev/a |
-| :---: | :---: |
+| 팀장 | 김종범 | main, dev/a | <br>
 | 부원 | 임형호 | dev/b, dev/c |
 
 <br/>
@@ -20,10 +19,11 @@
 <img src = "https://user-images.githubusercontent.com/100755512/192139373-9607aff5-3b2b-4fc5-8b9b-795c4d59f408.png" width="20" height = "20"/>
 
 <li>dev/a 브랜치</li>
-
+<img src = "https://user-images.githubusercontent.com/100755512/192139373-9607aff5-3b2b-4fc5-8b9b-795c4d59f408.png" width="20" height = "20"/>
 
 <li>팀원</li>
 <li>dev/b</li>
-
+<img src = "https://user-images.githubusercontent.com/100755512/192139373-9607aff5-3b2b-4fc5-8b9b-795c4d59f408.png" width="20" height = "20"/>
 
 <li>dev/c</li>
+<img src = "https://user-images.githubusercontent.com/100755512/192139373-9607aff5-3b2b-4fc5-8b9b-795c4d59f408.png" width="20" height = "20"/>
