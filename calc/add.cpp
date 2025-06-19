@@ -1,8 +1,7 @@
 #include "add.h"
 
-// add function modify for test
+/// add 오류 코드 수정
 int add(int x, int y)
 {
-	int res = x + y;
-	return res;
+	return x + y;
 }
