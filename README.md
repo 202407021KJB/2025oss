@@ -1,9 +1,3 @@
-![스크린샷1](images/screenshot_1.png)
-![스크린샷1](images/screenshot_2.png)
-![스크린샷1](images/screenshot_3.png)
-![스크린샷1](images/screenshot_4.png)
-![스크린샷1](images/screenshot_5.png)
-![스크린샷1](images/screenshot_6.png)
 
 # 기말고사
 
@@ -25,14 +19,17 @@
 <ol>
 <li>팀장</li>
 <li>main 브랜치</li>
-<img src = "https://user-images.githubusercontent.com/100755512/192139373-9607aff5-3b2b-4fc5-8b9b-795c4d59f408.png" width="20" height = "20"/>
+<img src = "/images/main수정.png" width="20" height = "20"/>
+
 
 <li>dev/a 브랜치</li>
-<img src = "https://user-images.githubusercontent.com/100755512/192139373-9607aff5-3b2b-4fc5-8b9b-795c4d59f408.png" width="20" height = "20"/>
+<img src = "/images/deva수정.png" width="20" height = "20">
 
 <li>팀원</li>
 <li>dev/b</li>
-<img src = "https://user-images.githubusercontent.com/100755512/192139373-9607aff5-3b2b-4fc5-8b9b-795c4d59f408.png" width="20" height = "20"/>
+<img src = "/images/mod수정.png" width="20" height = "20">
+<img src = "/images/mul수정.png" width="20" height = "20">
+<img src = "/images/add수정.png" width="20" height = "20">
 
 <li>dev/c</li>
 <img src = "https://user-images.githubusercontent.com/100755512/192139373-9607aff5-3b2b-4fc5-8b9b-795c4d59f408.png" width="20" height = "20"/>
