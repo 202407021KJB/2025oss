@@ -19,17 +19,17 @@
 <ol>
 <li>팀장</li>
 <li>main 브랜치</li>
-<img src = "/images/main수정.png" width="20" height = "20"/>
+<img src = "/images/main수정.png">
 
 
 <li>dev/a 브랜치</li>
-<img src = "/images/deva수정.png" width="20" height = "20">
+<img src = "/images/deva수정.png">
 
 <li>팀원</li>
 <li>dev/b</li>
-<img src = "/images/mod수정.png" width="20" height = "20">
-<img src = "/images/mul수정.png" width="20" height = "20">
-<img src = "/images/add수정.png" width="20" height = "20">
+<img src = "/images/mod수정.png" >
+<img src = "/images/mul수정.png">
+<img src = "/images/add수정.png">
 
 <li>dev/c</li>
-<img src = "https://user-images.githubusercontent.com/100755512/192139373-9607aff5-3b2b-4fc5-8b9b-795c4d59f408.png" width="20" height = "20"/>
+
