@@ -8,7 +8,6 @@
 #include "mul.h"
 #include "sub.h"
 
-
 int main()
 {
 	int x = 0;
