@@ -3,7 +3,7 @@
 
 | 팀장 | 김종범 | 202407021 | main, dev/a | <br>|
 | 부원 | 임형호 | 202407030 | dev/b, dev/c |<br>|
-| 저장소 | https://github.com/202407021KJB/2025oss |
+| 저장소 | https://github.com/202407021KJB/2025oss | 
 
 <br/>
 ## 해결과정
